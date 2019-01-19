@@ -14,10 +14,10 @@ npm install
 
 ## Usage
 
-To run any code 
+To run any code for exampe AsyncFunctionRetryDesignPattern.js
 
 ```bash
-node AsyncFunctionRetryDesignPattern.js`
+node AsyncFunctionRetryDesignPattern.js
 ```
 
 ## Contributing
