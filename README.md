@@ -9,7 +9,7 @@ refer [npm website](https://www.npmjs.com/get-npm) to install npm.
 
 
 ```bash
-npm install`
+npm install
 ```
 
 ## Usage
