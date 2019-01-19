@@ -1,0 +1,16 @@
+{
+  "name": "NodeDesignPattern",
+  "version": "1.0.0",
+  "description": "code design pattern with sample",
+  "main": "#",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajit kamble",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.6",
+    "http": "0.0.0",
+    "system-sleep": "^1.3.6"
+  }
+}
